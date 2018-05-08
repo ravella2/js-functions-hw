@@ -53,7 +53,7 @@ return product;
 
 // Question 5
 var numberOfArguments = function(){
-  return args.length
+  return arguments.length
 }
 
 
